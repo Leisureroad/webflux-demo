@@ -1,0 +1,6 @@
+applications:
+- name: webflux-demo
+  memory: 1G
+  routes:
+  - route: webflux-demo.pcfdemo.com
+  path: target/
