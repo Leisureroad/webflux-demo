@@ -3,4 +3,4 @@ applications:
   memory: 1G
   routes:
   - route: webflux-demo.pcfdemo.com
-  path: target/
+  path: target/webflux-demo-0.0.1-SNAPSHOT.jar
