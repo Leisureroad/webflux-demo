@@ -1,6 +1,6 @@
 applications:
-- name: webflux-demo
+- name: webflux-demo-new
   memory: 1G
   routes:
-  - route: webflux-demo.pcfdemo.com
+  - route: webflux-demo.pcfbeta.io
   path: target/webflux-demo-0.0.1-SNAPSHOT.jar
